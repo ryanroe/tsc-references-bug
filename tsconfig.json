@@ -1,0 +1,8 @@
+{
+  "references": [
+    {
+      "path": "./bug-module-1/tsconfig.json"
+    }
+  ],
+  "files": []
+}
